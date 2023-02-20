@@ -1,0 +1,17 @@
+.jumbotron {
+  padding-top: 3rem;
+  background-image: url(brown.jpg);
+  opacity: 100%;
+}
+
+#Galeri {
+  background-color: #e7cc8f;
+}
+
+#contact button {
+  border-radius: 15px;
+}
+
+#contact button:hover {
+  border-radius: 15px;
+}
